@@ -6,21 +6,25 @@ Soy un ingeniero de software profesional con más de doce años de experiencia e
 
 - [![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
   [![Xcode](https://img.shields.io/badge/-Xcode-blue?style=flat-square&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
-
-- [![Kotlin](https://img.shields.io/badge/-Kotlin-blueviolet?style=flat-square&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin)
+  [![Kotlin](https://img.shields.io/badge/-Kotlin-blueviolet?style=flat-square&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin)
   [![Android Studio](https://img.shields.io/badge/-Android_Studio-green?style=flat-square&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-
-- [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+  [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
   [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-- [![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+  [![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
   [![Google Cloud](https://img.shields.io/badge/-Google_Cloud-blue?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-
-- [![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
+  [![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+  [![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
   [![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
   [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
   [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![SQL Server](https://img.shields.io/badge/-SQL_Server-blue?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server)
+  [![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+  [![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+  [![Terraform](https://img.shields.io/badge/-Terraform-blue?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+  [![Ansible](https://img.shields.io/badge/-Ansible-red?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/)
 
 ## ¿Quién soy?
 
