@@ -57,7 +57,8 @@ Después de trabajar en multiples multinacionales, decidí abrir mi propia start
 
 [![Instagram Follow](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tu-usuario-de-instagram)
 [![Facebook Follow](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tu-usuario-de-facebook)
-[![Twitter Follow](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario-de-twitter)
+[![X Follow @krispidev](https://img.shields.io/badge/-X-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario-de-twitter)
+
 
 
 ¡Espero conocerte pronto y colaborar en proyectos emocionantes juntos!
