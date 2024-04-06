@@ -32,8 +32,8 @@ Soy un ingeniero de software profesional con más de doce años de experiencia e
 
 - 🚀 Fundador de SlacCode y KrispiDev.
 - 📱 Especializado en desarrollo de aplicaciones móviles.
-- 💡 Consultorias (Cloud, UX/UI, Arquitectura Frontend, Arquitectura de Soluciones).
-- 🚀 Estrategias de Innovacion Digital.
+- 💡 Consultor (Cloud, UX/UI, Arquitectura Frontend, Arquitectura de Soluciones).
+- 🚀 Innovador Digital.
 
 ## Mi Trayectoria
 
@@ -41,6 +41,8 @@ Después de trabajar en multiples multinacionales, decidí abrir mi propia start
 
 ## ¿Qué puedo ofrecerte?
 
+- 🚀 Estrategias de Innovador Digital.
+- 💡 Consultorias en (Cloud, UX/UI, Arquitectura Frontend, Arquitectura de Soluciones).
 - 🛠️ Experiencia en desarrollo de aplicaciones móviles
 - 📚 Conocimiento profundo en tecnologías de programación
 - 💬 Mentoring y asesoramiento profesional
