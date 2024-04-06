@@ -10,7 +10,7 @@ Soy un ingeniero de software profesional con más de doce años de experiencia e
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-green?style=flat-square&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/-Google_Cloud-blue?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
