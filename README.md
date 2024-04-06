@@ -53,7 +53,7 @@ Después de trabajar en multiples multinacionales, decidí abrir mi propia start
 
 ## ¡Conéctate conmigo!
 
-¡Me encantaría conectarme contigo y aprender juntos! Encuéntrame en las redes sociales o ponte en contacto conmigo a través de mi [sitio web](https://tu-sitio-web.com).
+¡Me encantaría conectarme contigo y aprender juntos! Encuéntrame en las redes sociales o ponte en contacto conmigo a través de [KripiDev](https://krispi.dev) o [SlacCode](https://slaccode.com).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tu-usuario-de-twitter?style=social)](https://twitter.com/tu-usuario-de-twitter)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt4oexCp8X4tG97rSQ5jPlw?label=Suscr%C3%ADbete%20a%20mi%20canal%20de%20YouTube&style=social)](https://www.youtube.com/your-channel)
