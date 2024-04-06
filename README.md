@@ -55,12 +55,11 @@ Después de trabajar en multiples multinacionales, decidí abrir mi propia start
 
 ¡Me encantaría conectarme contigo y aprender juntos! Encuéntrame en las redes sociales o ponte en contacto conmigo a través de [KripiDev](https://krispi.dev) o [SlacCode](https://slaccode.com).
 
-[![Instagram Follow](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/krispidev)
+[![Instagram Follow](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/slaccode)
 [![Facebook Follow](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/krispidev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tu-usuario-de-twitter?style=social)](https://twitter.com/KrispiDeev)
 
-
-
+[![Instagram Follow](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/slaccode)
+[![Facebook Follow](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/slaccode)
 
 ¡Espero conocerte pronto y colaborar en proyectos emocionantes juntos!
 
