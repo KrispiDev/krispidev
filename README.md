@@ -45,12 +45,6 @@ Después de trabajar en multiples multinacionales, decidí abrir mi propia start
 - 💬 Mentoring y asesoramiento profesional
 - 🌱 Recursos gratuitos para la comunidad de desarrollo
 
-## Repositorios Destacados (Pinned Repositories)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrispiDev&repo=EjerciciosLogicaJAVA)](https://github.com/KrispiDev/EjerciciosLogicaJAVA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name-2)](https://github.com/your-username/repo-name-2)
-
-
 ## ¡Conéctate conmigo!
 
 ¡Me encantaría conectarme contigo y aprender juntos! Encuéntrame en las redes sociales o ponte en contacto conmigo a través de [KripiDev](https://krispi.dev) o [SlacCode](https://slaccode.com).
