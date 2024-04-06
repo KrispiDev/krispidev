@@ -55,9 +55,10 @@ Después de trabajar en multiples multinacionales, decidí abrir mi propia start
 
 ¡Me encantaría conectarme contigo y aprender juntos! Encuéntrame en las redes sociales o ponte en contacto conmigo a través de [KripiDev](https://krispi.dev) o [SlacCode](https://slaccode.com).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tu-usuario-de-twitter?style=social)](https://twitter.com/tu-usuario-de-twitter)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt4oexCp8X4tG97rSQ5jPlw?label=Suscr%C3%ADbete%20a%20mi%20canal%20de%20YouTube&style=social)](https://www.youtube.com/your-channel)
-[![Twitch Followers](https://img.shields.io/twitch/followers/tu-usuario-de-twitch?label=S%C3%ADgueme%20en%20Twitch&style=social)](https://www.twitch.tv/tu-usuario-de-twitch)
+[![Instagram Follow](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tu-usuario-de-instagram)
+[![Facebook Follow](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tu-usuario-de-facebook)
+[![Twitter Follow](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario-de-twitter)
+
 
 ¡Espero conocerte pronto y colaborar en proyectos emocionantes juntos!
 
